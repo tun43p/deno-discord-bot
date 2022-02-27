@@ -1,0 +1,28 @@
+{
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.unstable": true,
+  "deno.suggest.autoImports": true,
+
+  "deno.config": "./deno.json",
+
+  "editor.rulers": [120],
+
+  "[json]": {
+    "editor.defaultFormatter": "denoland.vscode-deno",
+    "editor.quickSuggestions": { "strings": true },
+    "editor.suggest.insertMode": "replace",
+    "gitlens.codeLens.scopes": ["document"]
+  },
+
+  "[markdown]": {
+    "editor.defaultFormatter": "denoland.vscode-deno",
+    "editor.quickSuggestions": false,
+    "editor.unicodeHighlight.ambiguousCharacters": false,
+    "editor.wordWrap": "on"
+  },
+
+  "[typescript]": {
+    "editor.defaultFormatter": "denoland.vscode-deno"
+  }
+}
