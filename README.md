@@ -34,7 +34,7 @@
 
 ### Downloading
 
-To download this application, please do `git clone https://gitlab.com/tun43p/discord-bot.git`.
+To download this application, please do `git clone https://github.com/tun43p/discord-bot.git`.
 
 ### Running
 
