@@ -50,7 +50,7 @@ To run this application, please do `make fmt`
 
 ### Bundle
 
-To bundle this application, please do `amke bundle`
+To bundle this application, please do `make bundle`
 
 ## Notes
 
