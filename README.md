@@ -1,10 +1,10 @@
-# Discord Bot
+# Deno Discord Bot
 
 > Multi usage Discord bot created with Deno and the Harmony library.
 
 ## Table of contents
 
-- [Discord Bot](#discord-bot)
+- [Deno Discord Bot](#deno-discord-bot)
   - [Table of contents](#table-of-contents)
   - [About this project](#about-this-project)
     - [Built with](#built-with)
@@ -34,7 +34,7 @@
 
 ### Downloading
 
-To download this application, please do `git clone https://github.com/tun43p/discord-bot.git`.
+To download this application, please do `git clone https://github.com/tun43p/deno-discord-bot.git`.
 
 ### Running
 
